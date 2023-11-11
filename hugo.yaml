@@ -363,6 +363,16 @@ params:
           - icon: fab fa-github
             url: https://github.com/Mohith-sys
 
+      - title: TaskMaster Application - Java-based To-Do List Application
+        content: Engineered a clean and simple Java-based application with an intuitive UI for efficient task management. It includes a task sorting algorithm and a search function that utilizes regular expressions. The application is designed with robust error handling mechanisms and is currently being migrated to AWS for secure data storage and user authentication.
+        image: /images/projects/todo.png
+        badges:
+          - "Java"
+          - "AWS"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/Mohith-sys
+
       - title: StocksEye - Real-time Stock Tracking Web Application
         content: This is a web application currently under development, designed to track stock prices and provide real-time updates. The frontend is being developed using React.js, Chart.js, and JavaScript. It integrates a financial data provider API for stock data retrieval and implements real-time updates for stock prices.
         image: /images/projects/stocks.jpg
@@ -370,16 +380,6 @@ params:
           - "React.js"
           - "Chart.js"
           - "JavaScript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/Mohith-sys
-
-      - title: TaskMaster Application - Java-based To-Do List Application
-        content: Engineered a clean and simple Java-based application with an intuitive UI for efficient task management. It includes a task sorting algorithm and a search function that utilizes regular expressions. The application is designed with robust error handling mechanisms and is currently being migrated to AWS for secure data storage and user authentication.
-        image: /images/projects/todo.png
-        badges:
-          - "Java"
-          - "AWS"
         links:
           - icon: fab fa-github
             url: https://github.com/Mohith-sys
