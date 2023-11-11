@@ -337,12 +337,12 @@ real-world problems and driving forward technological advancements."
     enable: true
     # title: "Custom Name"
     items:
-      - title: Portfolio Website
+      - title: Mohith's Portfolio & Perspective
         content: Created a portfolio/blog for myself using Hugo, HTML, CSS, Bootstrap, and JavaScript and hosted it on Netlify.
         image: /images/projects/NH.jpg
         featured:
           name: Demo
-          link: https://mohithn.netlify.app/
+          link: https://mohithn.netlify.app/blogs/
         badges:
           - "Hugo"
           - "Bootstrap"
@@ -352,7 +352,7 @@ real-world problems and driving forward technological advancements."
           - "Netlify"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+            url: mailto:mohith.n2022@gmail.com?subject=Mohith's%20Portfolio%20&%20Perspective&body=Check%20it%20out:%20https://mohithn.netlify.app/blogs/
           - icon: fab fa-github
             url: https://github.com/Mohith-sys/portfolio
       
