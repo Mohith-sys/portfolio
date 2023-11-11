@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Mohith's Profile"
-  description: Text about my cool site
+  title: "Mohith's Portfolio"
+  description: Check out my portfolio and blog
   # staticPath: ""  # The path to serve the static files from
   favicon: "/ML.jpg"
 
