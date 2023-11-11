@@ -106,7 +106,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Mohith's Profile" # Brand name for the brand | default is the title variable
+    brandName: "Mohith's Portfolio" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     menus:
@@ -340,7 +340,7 @@ real-world problems and driving forward technological advancements."
         image: /images/projects/NH.jpg
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://mohithn.netlify.app/
         badges:
           - "Hugo"
           - "Bootstrap"
@@ -352,7 +352,7 @@ real-world problems and driving forward technological advancements."
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/Mohith-sys
+            url: https://github.com/Mohith-sys/portfolio
       
       - title: Account Ownership Data Analysis
         content: Utilized R programming and data visualization techniques. Analyzed account ownership data for countries according to gender. Explored trends in Brazil, India, and the United States. Investigated ownership percentages for primary education or less and secondary education or more. Examined data for Chile, Serbia, Uganda, France, and Peru. Conducted statistical analysis and drew conclusions on account ownership trends.
