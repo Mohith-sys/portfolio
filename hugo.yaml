@@ -14,7 +14,7 @@ outputs:
 
 Paginate: 3
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
+disqusShortname: portfolio
 # googleAnalytics: G-MEASUREMENT_ID
 
 markup:
@@ -108,7 +108,7 @@ params:
     # showBrandLogo: false # Show brand logo in nav bar | default is true
     brandName: "Portfolio & Perspective" # Brand name for the brand | default is the title variable
     disableSearch: false
-    # searchPlaceholder: "Search"
+    searchPlaceholder: "Search"
     menus:
       disableAbout: false
       disableExperience: false
