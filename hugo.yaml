@@ -282,20 +282,20 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Bachelor of Science in Computer Science - Machine Learning"
         school:
           name: "University of Maryland - College Park"
           url: "https://www.cs.umd.edu/"
         date: "2022 - 2025"
         GPA: "Currently 3.5 out of 4.0"
-        content: |-
-          Major: Computer Science-Machine Learning track (College of Computer, Mathematical, and Natural Sciences)
-          
+        content: |-          
           Minor: Innovation & Entrepreneurship (Robert H. Smith School of Business)
           
           Relevant Coursework: Object Oriented Programming I & II, Discrete Structures, Computer Systems, Organization of Programming Languages
           
-          Extracurriculars: BigTh!nk AI, Google Developer Student Club, Bitcamp, Break Through Tech
+          Extracurriculars: BigTh!nk AI, Google Developer Student Club, Bitcamp, Break Through Tech (Initiative of Cornell Tech)
+
+          Awards: College of Computer, Mathematical, and Natural Sciences' Dean's List
 
         # The code below creates a button to academic record
         #featuredLink:
