@@ -187,7 +187,21 @@ params:
   experience:
     enable: true
     # title: "Custom Name"
-    items:    
+    items:
+      - job: "Innovation & Software Development Intern"
+        company: "Airweb Digital"
+        companyUrl: "https://www.airwebdigital.com/"
+        date: "November 2023 - Present"
+        #featuredLink:
+        #  enable: true
+        #  url: "https://example.com"
+        content: |
+          - Independently developing an AI-based Attention Analysis feature using machine learning libraries such as TensorFlow or PyTorch, for optimizing advertising.
+          - Leading the creation of a viewshed analysis deliverable for visibility ranking using drone data, leveraging GIS (Geographic Information System) technologies such as QGIS.
+          - Working directly with the CEO and consulting with company partners to align the projects with the company's strategic goals.
+          - Leveraging agile practices from experience to manage the projects, displaying initiative and leadership in a startup setting.
+
+
       - job: "App Developer"
         company: "NitesOut"
         companyUrl: "https://www.nitesout.us/"
