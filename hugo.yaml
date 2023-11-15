@@ -307,7 +307,7 @@ params:
           name: "Robbinsville High School"
           url: "https://rhs.robbinsville.k12.nj.us/"
         date: "2018 - 2022"
-        GPA: "4.3 out of 4.5"
+        GPA: "4.3 weighted"
         content: |-
           Extracurriculars:
             - Co-founder of the Computer Science National Honors Society
