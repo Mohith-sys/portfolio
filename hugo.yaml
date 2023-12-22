@@ -251,7 +251,7 @@ params:
       - job: "Volunteer Mentor"
         company: "FIRST"
         companyUrl: "https://www.firstinspires.org/"
-        date: "September 2023 - Present"
+        date: "Sep. 2023 - Present"
         #featuredLink:
         #  enable: true
         #  url: "https://example.com"
