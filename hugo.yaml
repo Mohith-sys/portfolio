@@ -131,9 +131,9 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://1drv.ms/w/s!AlwQ8SHBTye_gW1dCJgaLnsW6iNH?e=CL2yzN"
+      url: "https://1drv.ms/w/s!AlwQ8SHBTye_gW1dCJgaLnsW6iNH?e=GNtcAi"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
