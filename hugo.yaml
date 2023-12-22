@@ -138,13 +138,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Mohith-sys
-        - icon: fas fa-envelope
-          url: mailto:mohith.n2022@gmail.com
-        - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/mohith-nagendra/
-        - icon: fab fa-flipboard
-          url: https://flipboard.com/@MohithNagendra?from=share&utm_source=flipboard&utm_medium=curator_share
       customIcons:
+        - icon: /envelope.svg
+          url: mailto:mohith.n2022@gmail.com
+        - icon: /linkedin.svg
+          url: https://www.linkedin.com/in/mohith-nagendra/
         - icon: /flipboard.svg
           url: https://flipboard.com/@MohithNagendra?from=share&utm_source=flipboard&utm_medium=curator_share
         - icon: /ML.jpg
