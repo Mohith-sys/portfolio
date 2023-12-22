@@ -135,9 +135,6 @@ params:
       download: true
       newPage: true
     socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/Mohith-sys
       customIcons:
         - icon: /github.svg
           url: https://github.com/Mohith-sys
