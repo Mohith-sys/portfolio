@@ -145,6 +145,8 @@ params:
         - icon: fab fa-flipboard
           url: https://flipboard.com/@MohithNagendra?from=share&utm_source=flipboard&utm_medium=curator_share
       customIcons:
+        - icon: /flipboard.svg
+          url: https://flipboard.com/@MohithNagendra?from=share&utm_source=flipboard&utm_medium=curator_share
         - icon: /ML.jpg
           url: "https://mohithn.netlify.app/blogs/"
         
