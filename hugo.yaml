@@ -139,6 +139,8 @@ params:
         - icon: fab fa-github
           url: https://github.com/Mohith-sys
       customIcons:
+        - icon: /github.svg
+          url: https://github.com/Mohith-sys
         - icon: /envelope.svg
           url: mailto:mohith.n2022@gmail.com
         - icon: /linkedin.svg
