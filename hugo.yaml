@@ -254,6 +254,23 @@ params:
           - Employed tools such as PyMOL, Jupyter Notebooks, and Anaconda to facilitate data analysis and visualization.
           - Gained experience in programming, utilizing supercomputers, data analytics, and generating figures.
 
+      - job: "Volunteer Mentor"
+        company: "FIRST"
+        companyUrl: "https://www.firstinspires.org/"
+        date: "Sep. 2023 - Present"
+        #featuredLink:
+        #  enable: true
+        #  url: "https://example.com"
+        info:
+          enable: true
+          content: Mentoring Students in Robotics and Coding.
+        content: |
+          - Mentoring a team of girls participating in the FIRST LEGO League (FLL), providing guidance and support in all aspects of the competition, including the Robot Game, Innovation Project, and Core Values.
+          - Successfully guided the team through the qualifiers, advancing to the state round of the competition.
+          - Inspiring and empowering students to be innovators, working side by side with them to build their leadership and problem-solving skills, and fostering their sense of belonging and self-confidence.
+          - Assisting the team with technical and non-technical topics such as programming, building skills, project management, and presentation skills.
+          - Serving as a role model and advisor, helping to instill the principles of Gracious Professionalism® and FIRST Core Values in the students.
+
       - job: "CSNHS Co-Founder"
         company: "Robbinsville High School"
         companyUrl: "https://rhs.robbinsville.k12.nj.us/"
