@@ -138,8 +138,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Mohith-sys
-        - icon: far fa-envelope
-          url: mailto:mohith.n2022@gmail.com
+        #- icon: far fa-envelope
+         # url: mailto:mohith.n2022@gmail.com
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/mohith-nagendra/
         - icon: fab fa-flipboard
