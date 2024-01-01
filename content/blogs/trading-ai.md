@@ -1,5 +1,5 @@
 ---
-title: "The Future of Trading"
+title: "The Future of Trading: A Glimpse into the AI Revolution"
 date: 2023-12-30
 draft: false
 author: "Mohith Nagendra"
@@ -13,7 +13,6 @@ description: ""
 toc: true
 ---
 
-## The Future of Trading: A Glimpse into the AI Revolution
 Hello, I’m a Computer Science student at the University of Maryland, specializing in Machine Learning. I’m also an Innovation & Software Development Intern at Airweb Digital, where I’m developing an AI-based Attention Analysis feature. Today, I’d like to share my thoughts on the future of trading, particularly the role of Artificial Intelligence (AI).
 
 ## The Current Landscape
